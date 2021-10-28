@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "email": "rafael@mail.com",
+      "password": "$2a$10$EIOoGjVvAkosaQGI3ee7dObN60wHFF33jH2hYMI7V1L9slUoUFe56",
+      "name": "rafael",
+      "id": 2
+    },
+    {
+      "email": "joao@mail.com",
+      "password": "$2a$10$1EWqVFqMraKzJxTMgf9N1.EYdjGubJfFQjBNgo/jCMoE1.gKkKaiG",
+      "name": "joao",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "https://linktoimage.teste.com",
+      "title": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 14
+    },
+    {
+      "id": 2,
+      "image": "https://linktoimage.teste.com",
+      "title": "X-Salada",
+      "category": "Sanduíches",
+      "price": 12
+    },
+    {
+      "id": 3,
+      "image": "https://linktoimage.teste.com",
+      "title": "X-Egg",
+      "category": "Sanduíches",
+      "price": 12.5
+    },
+    {
+      "id": 4,
+      "image": "https://linktoimage.teste.com",
+      "title": "Coca-Cola",
+      "category": "Bebidas",
+      "price": 8.5
+    },
+    {
+      "id": 5,
+      "image": "https://linktoimage.teste.com",
+      "title": "Fanta",
+      "category": "Bebidas",
+      "price": 8.5
+    },
+    {
+      "id": 6,
+      "image": "https://linktoimage.teste.com",
+      "title": "MilkShake",
+      "category": "Sobremesas",
+      "price": 10
+    }
+  ],
+  "cart": [
+    {
+      "image": "https://linktoimage.teste.com",
+      "title": "X-Salada",
+      "category": "Sanduíches",
+      "price": 12,
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "image": "https://linktoimage.teste.com",
+      "title": "X-Salada",
+      "category": "Sanduíches",
+      "price": 12,
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "image": "https://linktoimage.teste.com",
+      "title": "X-Salada",
+      "category": "Sanduíches",
+      "price": 12,
+      "userId": 2,
+      "id": 6
+    }
+  ]
+}
