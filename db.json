@@ -16,71 +16,74 @@
   "products": [
     {
       "id": 1,
-      "image": "https://linktoimage.teste.com",
-      "title": "X-Burguer",
+      "image": "https://i.ibb.co/FHh5Cc8/hamburguer.png",
+      "title": "Hamburguer",
       "category": "Sanduíches",
-      "price": 14
+      "price": 14.00
     },
     {
       "id": 2,
-      "image": "https://linktoimage.teste.com",
-      "title": "X-Salada",
+      "image": "https://i.ibb.co/wy0BjYh/xburguer.png",
+      "title": "X-Burguer",
       "category": "Sanduíches",
-      "price": 12
+      "price": 16.00
     },
     {
       "id": 3,
-      "image": "https://linktoimage.teste.com",
-      "title": "X-Egg",
+      "image": "https://i.ibb.co/dQCBhxS/bigkenzie.png",
+      "title": "Big Kenzie",
       "category": "Sanduíches",
-      "price": 12.5
+      "price": 18.00
     },
     {
       "id": 4,
-      "image": "https://linktoimage.teste.com",
-      "title": "Coca-Cola",
+      "image": "https://i.ibb.co/ZYr9G8h/combokenzie.png",
+      "title": "Combo Kenzie",
       "category": "Bebidas",
-      "price": 8.5
+      "price": 26.00
     },
     {
       "id": 5,
-      "image": "https://linktoimage.teste.com",
-      "title": "Fanta",
+      "image": "https://i.ibb.co/MMddrWd/fantaguarana.png",
+      "title": "Fanta Guaraná",
       "category": "Bebidas",
-      "price": 8.5
+      "price": 5.00
     },
     {
       "id": 6,
-      "image": "https://linktoimage.teste.com",
-      "title": "MilkShake",
+      "image": "https://i.ibb.co/tHVczNt/cocacola.png",
+      "title": "Coca-Cola",
       "category": "Sobremesas",
-      "price": 10
+      "price": 7.00
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/PChgTpp/ovomaltine.png",
+      "title": "Milk Shake Ovomaltine",
+      "category": "Sobremesas",
+      "price": 10.00
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/mq8gMpH/shakeovomaltine.png",
+      "title": "Super Milk Shake Ovomaltine",
+      "category": "Sobremesas",
+      "price": 12.00
     }
   ],
   "cart": [
     {
-      "image": "https://linktoimage.teste.com",
-      "title": "X-Salada",
-      "category": "Sanduíches",
-      "price": 12,
-      "userId": 3,
-      "id": 3
-    },
-    {
-      "image": "https://linktoimage.teste.com",
-      "title": "X-Salada",
-      "category": "Sanduíches",
-      "price": 12,
-      "userId": 2,
-      "id": 5
-    },
-    {
-      "image": "https://linktoimage.teste.com",
-      "title": "X-Salada",
-      "category": "Sanduíches",
-      "price": 12,
-      "userId": 2,
-      "id": 6
+      "id": 8,
+      "image": "https://i.ibb.co/tHVczNt/shakeovomaltine.png",
+      "title": "Super Milk Shake Ovomaltine",
+      "category": "Sobremesas",
+      "price": 12.00,
+      "userId": 3
     }
+    
+    
   ]
 }
+
+
+
