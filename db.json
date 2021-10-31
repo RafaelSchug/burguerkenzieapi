@@ -5,13 +5,8 @@
       "password": "$2a$10$EIOoGjVvAkosaQGI3ee7dObN60wHFF33jH2hYMI7V1L9slUoUFe56",
       "name": "rafael",
       "id": 2
-    },
-    {
-      "email": "joao@mail.com",
-      "password": "$2a$10$1EWqVFqMraKzJxTMgf9N1.EYdjGubJfFQjBNgo/jCMoE1.gKkKaiG",
-      "name": "joao",
-      "id": 3
     }
+    
   ],
   "products": [
     {
@@ -71,7 +66,5 @@
       "price": 12
     }
   ],
-  "cart": [
-    
-  ]
+  "cart": []
 }
