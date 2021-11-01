@@ -70,7 +70,7 @@ Para efetuar login, informe o email e senha utilizados no registro:
 
 **authorization** `Bearer token`
 
-Para adicionar produto ao carrinho, informe no corpo da requisição, associando o id de usuário (informado no login), à **userId**:
+Para adicionar produto ao carrinho, informe no corpo da requisição o id de usuário (informado no login), à **userId**:
 
 
 ```json
@@ -98,7 +98,7 @@ Para adicionar produto ao carrinho, informe no corpo da requisição, associando
 
 Informe o id de usuário (informado no login) para listar todos os produtos adicionados ao carrinho
 
-- /cart/?userId=2
+- /cart/?userId=5
 - 
 
 ![Listar produtos no carrinho](/assets/getCartList.png "Listar produtos no carrinho")
@@ -113,7 +113,7 @@ Informe o id de usuário (informado no login) para listar todos os produtos adic
 
 **authorization** `Bearer token`
 
-- /cart/9
+- /cart/5
 
 ```json
     {
