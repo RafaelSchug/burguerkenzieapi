@@ -1,7 +1,7 @@
 ### hamburgueria-json-server API
 
 Arquivo Json para importar no Insomnia: (*Clique direito do mouse -> Salvar link como...*)
-- [Download]("../../assets/Insomnia_KB_API.json");
+- [Download](https://github.com/RafaelSchug/burguerkenzieapi/blob/main/assets/Insomnia_KB_API.json)
 
 ## ENDEREÇO DE ACESSO:
 https://hamburgueria-json-server.herokuapp.com/
